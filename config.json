@@ -21,19 +21,19 @@
                         "dest": 3001
                     },
                     {
-                        "path": "/$id-vless",
+                        "path": "/048e9226-8094-4589-aad0-0cf1766c7fd8-vless",
                         "dest": 3002
                     },
                     {
-                        "path": "/$id-vmess",
+                        "path": "/048e9226-8094-4589-aad0-0cf1766c7fd8-vmess",
                         "dest": 3003
                     },
                     {
-                        "path": "/$id-trojan",
+                        "path": "/048e9226-8094-4589-aad0-0cf1766c7fd8-trojan",
                         "dest": 3004
                     },
                     {
-                        "path": "/$id-ss",
+                        "path": "/048e9226-8094-4589-aad0-0cf1766c7fd8-ss",
                         "dest": 3005
                     }
                 ]
@@ -76,7 +76,7 @@
                 "network": "ws",
                 "security": "none",
                 "wsSettings": {
-                    "path": "/$id-vless"
+                    "path": "/048e9226-8094-4589-aad0-0cf1766c7fd8-vless"
                 }
             },
             "sniffing": {
@@ -104,7 +104,7 @@
             "streamSettings": {
                 "network": "ws",
                 "wsSettings": {
-                    "path": "/$id-vmess"
+                    "path": "/048e9226-8094-4589-aad0-0cf1766c7fd8-vmess"
                 }
             },
             "sniffing": {
@@ -132,7 +132,7 @@
                 "network": "ws",
                 "security": "none",
                 "wsSettings": {
-                    "path": "/$id-trojan"
+                    "path": "/048e9226-8094-4589-aad0-0cf1766c7fd8-trojan"
                 }
             },
             "sniffing": {
@@ -161,7 +161,7 @@
             "streamSettings": {
                 "network": "ws",
                 "wsSettings": {
-                    "path": "/$id-ss"
+                    "path": "/048e9226-8094-4589-aad0-0cf1766c7fd8-ss"
                 }
             },
             "sniffing": {
